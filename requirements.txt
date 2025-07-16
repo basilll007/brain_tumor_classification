@@ -2,3 +2,4 @@ streamlit
 ultralytics
 Pillow
 groq
+python-dotenv
